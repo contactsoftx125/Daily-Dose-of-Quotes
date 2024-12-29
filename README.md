@@ -13,10 +13,9 @@ while you are using the Application.
 
 <b>Third-Party Advertisements</b>
 
-You have downloaded our app, this application uses Applovin, a third party vendor, to serve advertisements 
-in our application, using the Applovin system . By using the Application, 
-
-you consent to the delivery of these advertisements and any data collected by Google, as per the
+You have downloaded Daily Dose of Quotes, this Application uses Google, a third party vendor, to serve advertisements 
+in the Application, using the AdMob system . By using the Application, 
+you consent to the delivery of these advertisements and any data collected by Google, as per the 
 Privacy Policy of AdMob.
 * <a href="https://support.google.com/admob/answer/6128543?hl=en">Admob Policies</a> (click to see)
 

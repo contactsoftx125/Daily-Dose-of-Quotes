@@ -13,7 +13,7 @@ while you are using the Application.
 
 <b>Third-Party Advertisements</b>
 
-You have downloaded Daily Dose of Quotes, this Application uses Google, a third party vendor, to serve advertisements 
+You have downloaded Daily Quotes, this Application uses Google, a third party vendor, to serve advertisements 
 in the Application, using the AdMob system . By using the Application, 
 you consent to the delivery of these advertisements and any data collected by Google, as per the 
 Privacy Policy of AdMob.
@@ -30,4 +30,4 @@ contact.softx125@gmail.com
 
 Best regards!
 
-Last Update: December 29, 2024
+Last Update: January 29, 2025
